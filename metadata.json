@@ -1,0 +1,6 @@
+{
+  "name": "NFA Traversal Engine",
+  "description": "Parallel-Path NFA Simulation & Acceptance Analyzer for Automata Theory and Formal Languages",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
